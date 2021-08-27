@@ -1,15 +1,22 @@
 body{
-    background-color: rgb(21, 41, 32);
+    background-color: rgb(61, 128, 97);
     font-style: oblique;
-    font-size: 60%;
+    font-size: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border: double;
     border-color: rgb(255, 254, 255);
+    
 }
 h1{
     text-align: center;
-    text-decoration: dotted;
-    background-size: 10%;
-    background-color: whitesmoke;
     color: teal;
+    border: 20px;
+    border-style: dashed;
+}
+
+img{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
