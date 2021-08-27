@@ -1,17 +1,19 @@
 body{
-    background-color: rgb(61, 128, 97);
+    background-color: beige;
     font-style: oblique;
     font-size: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border: double;
-    border-color: rgb(255, 254, 255);
+    border-color: rgb(32, 106, 148);
+    
     
 }
 h1{
     text-align: center;
-    color: teal;
+    color: rgb(11, 201, 201);
     border: 20px;
     border-style: dashed;
+
 }
 
 img{
